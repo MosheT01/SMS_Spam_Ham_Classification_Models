@@ -1,0 +1,18 @@
+30/12/2022 they refunded me?
+
+okay so if we use naive bayse without taking into acount class weights it does 85%
+with class_wighing we get 89%
+
+cleaning the data always gives worse results, so maybe just work with that,
+we can explain in that when we remove alot of data out model cant make connections so it underfits, this can be shown by 
+1)do Naive Bayse without anything
+2)show Grapghs about data
+3)clean Data
+4)run Naive Bayse
+5)we get lower f1 
+6) we show why the model underfitted
+7) we take into acount class wighing and other steps to combat the distribution 21% spam
+8)we show that thats better
+
+then show descion tree with adaboost
+then show svg maybe experiment with cleanig data?
