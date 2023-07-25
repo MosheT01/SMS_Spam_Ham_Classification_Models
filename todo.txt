@@ -15,4 +15,4 @@ we can explain in that when we remove alot of data out model cant make connectio
 8)we show that thats better
 
 then show descion tree with adaboost
-then show svg maybe experiment with cleanig data?
+then show svm maybe experiment with cleanig data?
